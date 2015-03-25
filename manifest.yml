@@ -1,0 +1,10 @@
+---
+
+applications:
+- name: app-object-storage2
+  memory: 512M
+  host: app-object-storage2
+  domain: mybluemix.net
+  services: 
+  - Object Storage (v2)-4y
+
